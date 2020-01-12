@@ -1,0 +1,1 @@
+The enclosed text file contains all steemit accounts which have used [Actifit](https://actifit.io) image(s) without actually posting through the dApp. Futhermore theses accounts haven't included the source of the image(s) either to identify the dApp isn't actually used.
